@@ -1,6 +1,6 @@
 # Recipes
 
-Bu repository git ve github kursunda yardımcı kaynak olarak kullanılmaktadır.***
+Bu repository Git ve GitHub kursum sırasında öğrenimime yardımcı bir kaynak olarak kullanılmaktadır. ***
 
 This repository contains recipes for some foods I like.
 
